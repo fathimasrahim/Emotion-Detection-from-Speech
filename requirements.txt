@@ -10,3 +10,4 @@ hydra-core
 pytorch_lightning
 librosa
 sentencepiece
+youtokentome
