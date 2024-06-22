@@ -4,7 +4,7 @@ numpy
 scipy
 transformers
 torch
-nemo-toolkit[all]
+nemo-toolkit
 soundfile
 hydra-core
 pytorch_lightning
