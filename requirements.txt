@@ -8,3 +8,4 @@ nemo-toolkit
 soundfile
 hydra-core
 pytorch_lightning
+librosa
