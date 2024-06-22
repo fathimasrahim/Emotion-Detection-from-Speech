@@ -5,10 +5,9 @@ scipy
 transformers
 torch
 nemo-toolkit
+nemo_asr  
 soundfile
 hydra-core
 pytorch_lightning
 librosa
 sentencepiece
-youtokentome
-inflect
