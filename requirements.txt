@@ -1,0 +1,8 @@
+streamlit
+streamlit-webrtc
+numpy
+scipy
+transformers
+torch
+nemo-toolkit
+soundfile
