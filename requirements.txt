@@ -6,3 +6,4 @@ transformers
 torch
 nemo-toolkit
 soundfile
+hydra-core
